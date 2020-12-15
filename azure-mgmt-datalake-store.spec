@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-datalake-store
 Version  : 0.5.0
-Release  : 9
+Release  : 10
 URL      : https://files.pythonhosted.org/packages/00/13/037f0128bdfcd47253f69a3b4ca6a7ff7b673b35832bc48f7c74df24a9be/azure-mgmt-datalake-store-0.5.0.zip
 Source0  : https://files.pythonhosted.org/packages/00/13/037f0128bdfcd47253f69a3b4ca6a7ff7b673b35832bc48f7c74df24a9be/azure-mgmt-datalake-store-0.5.0.zip
 Summary  : Microsoft Azure Data Lake Store Management Client Library for Python
